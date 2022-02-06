@@ -1,0 +1,11 @@
+---
+title: Blog Post demo in Hugo
+author: Ethan Nguyen
+date: '2022-02-02'
+slug: blog-post-demo-in-hugo
+categories: []
+tags: []
+---
+
+## This is a Sample Blog Post
+Text would go here.
